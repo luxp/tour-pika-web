@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "prepare": "pika-web",
+    "start": "serve ./"
+  },
+  "dependencies": {
+    "preact": "latest",
+    "htm": "latest"
+  },
+  "devDependencies": {
+    "@pika/web": "^0.3.2",
+    "serve": "^10.1.2"
+  }
+}
